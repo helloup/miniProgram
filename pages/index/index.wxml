@@ -21,3 +21,4 @@
     <text class="user-motto">{{motto}}</text>
   </view>
 </view>
+<button>Day2 微信小程序组件</button>
